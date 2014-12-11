@@ -16,8 +16,6 @@
 
 <core instanceDir="usaStates" name="usaStates"/>
 
-<core instanceDir="testCore2" name="testCore2"/>
-
 <shardHandlerFactory name="shardHandlerFactory" class="HttpShardHandlerFactory">
       <str name="urlScheme" person="violet">${urlScheme:}</str>
     </shardHandlerFactory>

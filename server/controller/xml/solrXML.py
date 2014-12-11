@@ -60,7 +60,7 @@ class SolrXML(object):
         attributes   = kwargs['attributes']
         container    = self.selectElement(container)
         if not self.elementExists(container, elementTag, **attributes):
-            newCore = ET.Element("core", **attributes)
+            newCore = ET.Element(elementTag, **attributes)
             newCore.tail = "\n\n"
             container.insert(-1, newCore)
 

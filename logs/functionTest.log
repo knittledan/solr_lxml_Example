@@ -1,0 +1,563 @@
+[2014-11-09 15:56:04,617][ERROR][Test] : loggingTest
+[2014-11-09 15:57:36,595][ERROR][Test] : loggingTest===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+funcName: logIt 
+caller: ['    obj.log("loggingTest", isError=True)\n'] 
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+funcName: loggingTest 
+caller: ['    logIt(test)\n'] 
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+funcName: <module> 
+caller: ['loggingTest()\n'] 
+
+[2014-11-09 16:03:12,844][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+funcName: logIt 
+caller:     obj.log("loggingTest", isError=True)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+funcName: loggingTest 
+caller:     logIt(test)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+funcName: <module> 
+caller: loggingTest()
+ 
+
+[2014-11-09 16:06:19,858][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+funcName: logIt 
+caller:     obj.log("loggingTest", isError=True)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+funcName: loggingTest 
+caller:     logIt(test)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+funcName: <module> 
+caller: loggingTest()
+ 
+
+[2014-11-09 16:08:24,232][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+funcName: logIt 
+caller:     obj.log("loggingTest", isError=True)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+funcName: loggingTest 
+caller:     logIt(test)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+funcName: <module> 
+caller: loggingTest()
+ 
+
+[2014-11-09 16:10:37,355][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+funcName: logIt 
+caller:     obj.log("loggingTest", isError=True)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+funcName: loggingTest 
+caller:     logIt(test)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+funcName: <module> 
+caller: loggingTest()
+ 
+
+[2014-11-09 16:11:07,562][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+funcName: logIt 
+caller:     obj.log("loggingTest", isError=True)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+funcName: loggingTest 
+caller:     logIt(test)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+funcName: <module> 
+caller: loggingTest()
+ 
+
+[2014-11-09 16:11:36,850][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+funcName: logIt 
+caller:     obj.log("loggingTest", isError=True)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+funcName: loggingTest 
+caller:     logIt(test)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+funcName: <module> 
+caller: loggingTest()
+ 
+
+[2014-11-09 16:19:42,674][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+funcName: logIt 
+caller:     obj.log("loggingTest", isError=True)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+funcName: loggingTest 
+caller:     logIt(test)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+funcName: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch 
+caller: loggingTest()
+ 
+
+[2014-11-09 16:20:58,636][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+funcName: logIt 
+caller:     obj.log("loggingTest", isError=True)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+funcName: loggingTest 
+caller:     logIt(test)
+ 
+
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+funcName: tailswitch 
+caller: loggingTest()
+ 
+
+[2014-11-10 11:53:17,470][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+Method Called:     obj.log("loggingTest", isError=True)
+
+Called From: logIt
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+Method Called:     logIt(test)
+
+Called From: loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+Method Called: loggingTest()
+
+Called From: tailswitch
+[2014-11-10 11:54:26,947][ERROR][Test] : loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+Method Called:     obj.log("loggingTest", isError=True)
+Called From: logIt
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+Method Called:     logIt(test)
+Called From: loggingTest
+===============
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+Method Called: loggingTest()
+Called From: tailswitch
+[2014-11-10 11:54:47,793][ERROR][Test] : loggingTest
+________________________
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+Method Called:     obj.log("loggingTest", isError=True)
+Called From: logIt
+________________________
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+Method Called:     logIt(test)
+Called From: loggingTest
+________________________
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+Method Called: loggingTest()
+Called From: tailswitch
+[2014-11-10 11:54:58,376][ERROR][Test] : loggingTest
+__
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+Method Called:     obj.log("loggingTest", isError=True)
+Called From: logIt
+__
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+Method Called:     logIt(test)
+Called From: loggingTest
+__
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+Method Called: loggingTest()
+Called From: tailswitch
+[2014-11-10 11:56:02,771][ERROR][Test] : loggingTest
+_____
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+Method Called: obj.log("loggingTest", isError=True)
+Called From: logIt
+_____
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+Method Called: logIt(test)
+Called From: loggingTest
+_____
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+Method Called: loggingTest()
+Called From: tailswitch
+[2014-11-10 11:56:37,622][ERROR][Test] : loggingTest
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 37 
+Method Called: obj.log("loggingTest", isError=True)
+Called From: logIt
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 42 
+Method Called: logIt(test)
+Called From: loggingTest
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 43 
+Method Called: loggingTest()
+Called From: tailswitch
+[2014-11-10 12:00:07,822][ERROR][TestLogger] : loggingTest
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 39 
+Method Called: test.log("loggingTest", isError=True)
+Called From: loggingTest
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 40 
+Method Called: loggingTest()
+Called From: tailswitch
+[2014-11-10 12:00:12,377][INFO][TestLogger] : User Input: 506 re
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 55 
+Method Called: test.search("506 re")
+Called From: locationSerach
+^^^^^^
+file: /Users/Knittle/Desktop/tailswitch/server/core/tailswitch.py 
+line: 57 
+Method Called: locationSerach()
+Called From: tailswitch
+[2014-12-10 16:03:54,848][INFO][TestLogger] : User Input: 506 re
+^^^^^^
+file: /Users/Knittle/Desktop/solrExample//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+^^^^^^
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+^^^^^^
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+^^^^^^
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 54 
+Method Called: test.search("506 re")
+Called From: locationSerach
+^^^^^^
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 56 
+Method Called: locationSerach()
+Called From: tailswitch
+[2014-12-10 16:07:05,533][INFO][TestLogger] : User Input: 506 re
+--------
+file: /Users/Knittle/Desktop/solrExample//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 54 
+Method Called: test.search("506 re")
+Called From: locationSerach
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 62 
+Method Called: locationSerach()
+Called From: tailswitch
+[2014-12-10 16:07:05,601][INFO][TestLogger] : User Input: sata monica
+--------
+file: /Users/Knittle/Desktop/solrExample//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 56 
+Method Called: test.search("sata monica")
+Called From: locationSerach
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 62 
+Method Called: locationSerach()
+Called From: tailswitch
+[2014-12-10 16:09:04,005][INFO][TestLogger] : User Input: 506 re
+--------
+file: /Users/Knittle/Desktop/solrExample//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 54 
+Method Called: search1 = test.search("506 re")
+Called From: locationSerach
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 61 
+Method Called: locationSerach()
+Called From: tailswitch
+[2014-12-10 16:09:22,866][INFO][TestLogger] : User Input: 506 re
+--------
+file: /Users/Knittle/Desktop/solrExample//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 54 
+Method Called: search1 = test.search("506 re")
+Called From: locationSerach
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 61 
+Method Called: locationSerach()
+Called From: tailswitch
+[2014-12-10 16:11:05,581][INFO][TestLogger] : User Input: 506 re
+--------
+file: /Users/Knittle/Desktop/solrExample//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 54 
+Method Called: test.search("506 re")
+Called From: locationSerach
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 64 
+Method Called: locationSerach()
+Called From: tailswitch
+[2014-12-10 16:11:05,652][INFO][TestLogger] : User Input: washington
+--------
+file: /Users/Knittle/Desktop/solrExample//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 56 
+Method Called: test.search("washington")
+Called From: locationSerach
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 64 
+Method Called: locationSerach()
+Called From: tailswitch
+[2014-12-10 16:11:40,155][INFO][TestLogger] : User Input: 506 re
+--------
+file: /Users/Knittle/Desktop/solrExample//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 54 
+Method Called: test.search("506 re")
+Called From: locationSerach
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 64 
+Method Called: locationSerach()
+Called From: tailswitch
+[2014-12-10 16:11:40,224][INFO][TestLogger] : User Input: washington
+--------
+file: /Users/Knittle/Desktop/solrExample//server/controller/solr/search/locationLookup.py 
+line: 32 
+Method Called: self.logger.log(msg, isInfo=True)
+Called From: search
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/requirements/__init__.py 
+line: 13 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/inputUtilities/sanitation/__init__.py 
+line: 18 
+Method Called: f(cls, userInput)
+Called From: wrapper
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 56 
+Method Called: test.search("washington")
+Called From: locationSerach
+--------
+file: /Users/Knittle/Desktop/solrExample/server/core/tailswitch.py 
+line: 64 
+Method Called: locationSerach()
+Called From: tailswitch

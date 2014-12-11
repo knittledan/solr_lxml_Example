@@ -1,0 +1,15 @@
+rootPath: !!python/object/apply:eval
+            - "__import__('os').path.dirname(__import__('os').path.abspath(__import__('sys').argv[0])).split('/server/')[0]"
+
+host: "127.0.0.1"
+port: "8081"
+threads: "10"
+serverLog: "[logPath]/tailswitch.log"
+cssFile: "[appRoot]/css/new.css"
+
+sourcePaths:
+    thirdParty: "[rootPath]/thirdParty"
+    serverRoot: "[rootPath]/server"
+    appRoot: "[rootPath]/www"
+    logPath: "[rootPath]/logs"
+    htmlPy: "[appRoot]/controller"

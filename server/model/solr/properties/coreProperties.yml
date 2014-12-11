@@ -1,0 +1,16 @@
+coreName: "usaStates"
+
+rootPath: !!python/object/apply:eval
+            - "__import__('os').path.dirname(__import__('os').path.abspath(__import__('sys').argv[0])).split('/server/')[0]"
+
+
+coreLocation: "[rootPath]/cores"
+solrProperties: "[coreLocation]/solr.xml"
+solrTestProperties: "[coreLocation]/solrTest.xml"
+
+coreTemplate: "[rootPath]/server/assets/templateCore"
+
+newCore: "[coreLocation]/[coreName]"
+
+corePropertyPath: "[newCore]/conf/solrconfig.xml"
+schemaPath: "[newCore]/conf/schema.xml"

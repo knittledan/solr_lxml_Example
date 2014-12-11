@@ -1,0 +1,9 @@
+arm:
+  isprotected: false
+  serverUrl: http://localhost:8983/solr/#/testCore
+grabOptions:
+  pinPoint: false
+  freeThrow: false
+  multiThrow: false
+  guideLines:
+    q: '*:*'

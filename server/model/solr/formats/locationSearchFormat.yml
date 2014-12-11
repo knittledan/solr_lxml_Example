@@ -1,0 +1,16 @@
+returnFields:
+  fl:
+    - 'id'
+    - 'city'
+    - 'state'
+cityQuery:
+  q: 'city:%s*'
+stateQuery:
+  q: 'state:%s'
+zipQuery:
+  q: 'id:%d*'
+query:
+  q: '%s'
+
+
+

@@ -1,0 +1,16 @@
+title: "solrServer"
+coreLocation: "[rootPath]/cores"
+solrPath: "[thirdParty]/solr"
+solrHome: "-Dsolr.solr.home=[coreLocation]"
+jettyHome: "-Djetty.home=[solrPath]"
+port: "8983"
+bindPort: "-Djetty.port=[port]"
+exe: "[solrPath]/start.jar"
+startCmd:
+  - "java"
+  - "[solrHome]"
+  - "[jettyHome]"
+  - "[bindPort]"
+  - "-jar"
+  - "[exe]"
+

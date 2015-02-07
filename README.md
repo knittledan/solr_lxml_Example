@@ -33,7 +33,7 @@ yamlUtilities:
 Yaml utilities loads a yaml file then updates any value by replacing all [] brackets with the value of the corrisponding key. This allows the reuse and manipulation of parameters. Values can be nested lists, dictionaries, or strings.
 
 *Why isn't the code in PEP8 standards?*
-- it's my code I made the standards
+- Well, it's based off PEP8 with some minor tweaks
 
 *Do I know PEP8?*
 - yes
